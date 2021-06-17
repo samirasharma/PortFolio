@@ -169,7 +169,7 @@ const workExperiences = {
     {
       role: "Sr. Technology Professional",
       company: "Public Service Enterprise Group (PSEG)",
-      companylogo: require("./assets/images/pseg-logo-png-transparent.png"),
+      companylogo: require("./assets/images/PSEG-logo.png"),
       date: "September 2019 – Present",
       descBullets: [
         "Responsible for executing projects and/or support tasks and maintain a high level of direct client interaction",
