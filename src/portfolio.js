@@ -116,7 +116,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "New Jersey Institute of Technology",
-      logo: require("./assets/images/NJIT-logo.png"),
+      logo: require("./assets/images/NJIT-logo.jpg"),
       subHeader: "Master of Science in Computer Science",
       duration: "Jan 2020 - Aug 2021",
       desc: "Focus on Data & Cloud courses and projects- Cloud Computing, Data Analytics with R, Advanced Database System Design, Data Mining, Introduction to Big Data, Data Structure and Algorithm",
