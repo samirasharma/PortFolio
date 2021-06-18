@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.895ce45d.chunk.css",
+    "main.js": "/PortFolio/static/js/main.ce7e2a54.chunk.js",
+    "main.js.map": "/PortFolio/static/js/main.ce7e2a54.chunk.js.map",
+    "runtime-main.js": "/PortFolio/static/js/runtime-main.40131507.js",
+    "runtime-main.js.map": "/PortFolio/static/js/runtime-main.40131507.js.map",
+    "static/js/2.4686c20e.chunk.js": "/PortFolio/static/js/2.4686c20e.chunk.js",
+    "static/js/2.4686c20e.chunk.js.map": "/PortFolio/static/js/2.4686c20e.chunk.js.map",
+    "static/css/3.bc85b1b3.chunk.css": "/PortFolio/static/css/3.bc85b1b3.chunk.css",
+    "static/js/3.afb86dd1.chunk.js": "/PortFolio/static/js/3.afb86dd1.chunk.js",
+    "static/js/3.afb86dd1.chunk.js.map": "/PortFolio/static/js/3.afb86dd1.chunk.js.map",
+    "static/css/4.5c57288c.chunk.css": "/PortFolio/static/css/4.5c57288c.chunk.css",
+    "static/js/4.84a819ca.chunk.js": "/PortFolio/static/js/4.84a819ca.chunk.js",
+    "static/js/4.84a819ca.chunk.js.map": "/PortFolio/static/js/4.84a819ca.chunk.js.map",
+    "index.html": "/PortFolio/index.html",
+    "precache-manifest.77c91468c0655790f33c715eef1e1486.js": "/PortFolio/precache-manifest.77c91468c0655790f33c715eef1e1486.js",
+    "service-worker.js": "/PortFolio/service-worker.js",
+    "static/css/3.bc85b1b3.chunk.css.map": "/PortFolio/static/css/3.bc85b1b3.chunk.css.map",
+    "static/css/4.5c57288c.chunk.css.map": "/PortFolio/static/css/4.5c57288c.chunk.css.map",
+    "static/css/main.895ce45d.chunk.css.map": "/PortFolio/static/css/main.895ce45d.chunk.css.map",
+    "static/js/2.4686c20e.chunk.js.LICENSE.txt": "/PortFolio/static/js/2.4686c20e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PortFolio/static/media/Montserrat-Regular.847627bf.ttf",
+    "static/media/NCE-logo.png": "/PortFolio/static/media/NCE-logo.1f102754.png",
+    "static/media/NJIT-logo.jpg": "/PortFolio/static/media/NJIT-logo.86b26b3a.jpg",
+    "static/media/PSEG-logo.png": "/PortFolio/static/media/PSEG-logo.7f089c63.png",
+    "static/media/cloudchomp-logo.png": "/PortFolio/static/media/cloudchomp-logo.0284583a.png",
+    "static/media/contactMailDark.svg": "/PortFolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/PortFolio/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/PortFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/msp-logo.png": "/PortFolio/static/media/msp-logo.2fd7135d.png",
+    "static/media/nextuLogo.webp": "/PortFolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/PortFolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/PortFolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/PortFolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40131507.js",
+    "static/js/2.4686c20e.chunk.js",
+    "static/css/main.895ce45d.chunk.css",
+    "static/js/main.ce7e2a54.chunk.js"
+  ]
+}
